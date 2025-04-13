@@ -1,0 +1,34 @@
+@import "fonts.css";
+
+
+html {
+    background-color: red;
+    background-image: url("/img/20BDF21.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.main-text {
+    color:blue;
+    
+}
+
+.video-holder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.scary-text {
+    color:rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.scary-stuff {
+    color:rgb(255, 255, 255);
+    
+}
