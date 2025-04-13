@@ -6,7 +6,9 @@ html {
     background-image: url("/img/20BDF21.JPG");
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
 }
+
 
 .main-text {
     color:blue;
